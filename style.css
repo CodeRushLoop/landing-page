@@ -190,3 +190,9 @@ figcaption {
 .signup-btn {
   border: 2px solid #ffffff;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 16px 0;
+}
